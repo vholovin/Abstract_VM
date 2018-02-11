@@ -7,6 +7,8 @@ This project create program, which emulate work of Virtual Machine that uses a s
 
 First method read commands from file, second methods read commands from terminal.
 
+## VM capable of diagnosing all errors in a file without stopping at the first error encountered.
+
 # Instructions:
 
 | Instruction  |  Details |
