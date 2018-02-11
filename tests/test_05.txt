@@ -1,0 +1,17 @@
+;---------;
+; test_05 ;
+;---------;
+
+pop
+
+add
+
+sub
+
+mul
+
+div
+
+mod
+
+exit

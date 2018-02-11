@@ -1,0 +1,16 @@
+;---------;
+; test_08 ;
+;---------;
+
+
+push int16(number)
+push double(42.42)
+push float(21.21)
+dump
+assert float(21.21)
+assert double(42.42)
+assert float(21.21)
+add
+assert double(63.63)
+dump
+exit

@@ -1,0 +1,17 @@
+;---------;
+; test_04 ;
+;---------;
+
+push int2(42)
+
+push int8(-.42)
+
+push int16(42-)
+
+pusp float(42.42.42)
+
+push double(42.-42)
+
+dump
+
+exit
