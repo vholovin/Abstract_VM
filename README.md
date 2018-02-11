@@ -7,7 +7,7 @@ This project create program, which emulate work of Virtual Machine that uses a s
 
 First method read commands from file, second methods read commands from terminal.
 
-## VM capable of diagnosing all errors in a file without stopping at the first error encountered.
+BONUS: VM capable of diagnosing all errors in a file without stopping at the first error encountered.
 
 # Instructions:
 
@@ -25,4 +25,4 @@ First method read commands from file, second methods read commands from terminal
 | **print** | Asserts that the value at the top of the stack is an 8-bit integer. (If not, see the instruction assert), then interprets it as an ASCII value and displays the corresponding character on the standard output. |
 | **exit** | Terminate the execution of the current program. |
 | **Comments** | Comments start with a ’;’ and finish with a newline. |
-| **;;** | Close program. (Only for program, which work to read commands from terminal) |
+| **;;** | Close program. (Only for program, which works to read commands from terminal) |
